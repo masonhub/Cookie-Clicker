@@ -1,4 +1,4 @@
-# Cookie-Clicker
+# Doodle-Jumper
 
 // The project is created with unity and is produced as an project files 
-// The downloads are linked in the download Raw files Link. 
+// Doodle jump contains a build file as well
